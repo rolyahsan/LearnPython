@@ -17,7 +17,7 @@ print(fav_cars)
 
 # Iterating through the list
 for car in range(len(fav_cars)):
-    print(fav_cars[car], end=" ")
+    print(fav_cars[car], end="  ")
 
 print("")
 # Adding a item to the end of the list
