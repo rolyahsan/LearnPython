@@ -64,5 +64,6 @@ copied_list = list(fav_cars)
 print(copied_list)
 
 fruits = ["apple", "banana", "cherry", "orange", "kiwi", "melon", "mango"]
+# The search will start at index 2 (included) and end at index 5 (not included)
 # Value from the 2nd index will be included, and value from the 5th index will be excluded
 print(fruits[2:5])
