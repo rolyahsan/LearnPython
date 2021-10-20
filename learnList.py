@@ -1,4 +1,4 @@
-# List of built-in methods:
+# Built-in List methods:
 # append()	Adds an element at the end of the list
 # clear()	Removes all the elements from the list
 # copy()	Returns a copy of the list
