@@ -18,6 +18,7 @@ for i in range(0, x):
 print("")
 
 
+# Checks whether a word is palindrome or not
 def is_palindrome(word):
     temp = word[::-1]
     if word.lower() == temp.lower():
